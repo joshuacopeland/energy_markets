@@ -1,4 +1,4 @@
-#AEMO has asked the AEMc to consider if it is appropriate for batteries to be
+#AEMO has asked the AEMC to consider if it is appropriate for batteries to be
 #exempt from the Retailer Reliability Obligation in the National Electricity Rules
 #as part of developing a policy framework for grid-scale batteries in the Integrating
 #Energy Storage into the NEM rule change.
